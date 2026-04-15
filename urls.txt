@@ -1,5 +1,6 @@
-/?open=paste-dropdown
+/?open=undo-dropdown
+/?open=clipboard-dropdown
 /?open=font-name-dropdown
-/?open=styles-dropdown
+/?open=heading-style-dropdown
 /?open=find-dropdown
 /?open=dictate-dropdown
